@@ -1,0 +1,26 @@
+C:\Users\Thai Duong\Desktop\Linq\obj\Debug\netcoreapp3.1\Linq.csprojAssemblyReference.cache
+C:\Users\Thai Duong\Desktop\Linq\obj\Debug\netcoreapp3.1\Linq.AssemblyInfoInputs.cache
+C:\Users\Thai Duong\Desktop\Linq\obj\Debug\netcoreapp3.1\Linq.AssemblyInfo.cs
+C:\Users\Thai Duong\Desktop\Linq\obj\Debug\netcoreapp3.1\Linq.csproj.CoreCompileInputs.cache
+C:\Users\Thai Duong\Desktop\Linq\bin\Debug\netcoreapp3.1\Linq.exe
+C:\Users\Thai Duong\Desktop\Linq\bin\Debug\netcoreapp3.1\Linq.deps.json
+C:\Users\Thai Duong\Desktop\Linq\bin\Debug\netcoreapp3.1\Linq.runtimeconfig.json
+C:\Users\Thai Duong\Desktop\Linq\bin\Debug\netcoreapp3.1\Linq.runtimeconfig.dev.json
+C:\Users\Thai Duong\Desktop\Linq\bin\Debug\netcoreapp3.1\Linq.dll
+C:\Users\Thai Duong\Desktop\Linq\bin\Debug\netcoreapp3.1\Linq.pdb
+C:\Users\Thai Duong\Desktop\Linq\obj\Debug\netcoreapp3.1\Linq.dll
+C:\Users\Thai Duong\Desktop\Linq\obj\Debug\netcoreapp3.1\Linq.pdb
+C:\Users\Thai Duong\Desktop\Linq\obj\Debug\netcoreapp3.1\Linq.genruntimeconfig.cache
+D:\LinqExample\bin\Debug\netcoreapp3.1\Linq.exe
+D:\LinqExample\bin\Debug\netcoreapp3.1\Linq.deps.json
+D:\LinqExample\bin\Debug\netcoreapp3.1\Linq.runtimeconfig.json
+D:\LinqExample\bin\Debug\netcoreapp3.1\Linq.runtimeconfig.dev.json
+D:\LinqExample\bin\Debug\netcoreapp3.1\Linq.dll
+D:\LinqExample\bin\Debug\netcoreapp3.1\Linq.pdb
+D:\LinqExample\obj\Debug\netcoreapp3.1\Linq.csprojAssemblyReference.cache
+D:\LinqExample\obj\Debug\netcoreapp3.1\Linq.AssemblyInfoInputs.cache
+D:\LinqExample\obj\Debug\netcoreapp3.1\Linq.AssemblyInfo.cs
+D:\LinqExample\obj\Debug\netcoreapp3.1\Linq.csproj.CoreCompileInputs.cache
+D:\LinqExample\obj\Debug\netcoreapp3.1\Linq.dll
+D:\LinqExample\obj\Debug\netcoreapp3.1\Linq.pdb
+D:\LinqExample\obj\Debug\netcoreapp3.1\Linq.genruntimeconfig.cache
